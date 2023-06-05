@@ -30,7 +30,6 @@ const saveCoin = async () => {
   }
 }
 
-
   return (
     <tr className="h-[80px] border-b overflow-hidden">
       <td onClick={saveCoin}>
